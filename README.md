@@ -116,19 +116,19 @@ Three different classification algorithms were trained and compared.
 
 ## Home Page
 
-![Home](c:\Users\2004h\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 144730.png)
+![Home](screenshots/home.png.png)
 
 ---
 
 ## Prediction
 
-![Prediction](c:\Users\2004h\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 144648.png)
+![Prediction](screenshots/prediction.png.png)
 
 ---
 
 ## Result
 
-![Result](c:\Users\2004h\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 144707.png)
+![Result](screenshots/result.png.png)
 
 ---
 
