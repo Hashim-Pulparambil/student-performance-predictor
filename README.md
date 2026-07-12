@@ -181,7 +181,7 @@ GitHub:
 https://github.com/Hashim-Pulparambil
 
 LinkedIn:
-()
+(www.linkedin.com/in/haashhiii)
 
 ---
 
