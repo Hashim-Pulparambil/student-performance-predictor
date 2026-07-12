@@ -1,5 +1,12 @@
 # 🎓 Student Performance Predictor
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+# 🎓 Student Performance Predictor
+
 A Machine Learning web application that predicts a student's performance category based on demographic and educational factors.
 
 Built using **Python**, **Scikit-learn**, and **Streamlit**, this project demonstrates a complete Machine Learning workflow from data preprocessing to deployment.

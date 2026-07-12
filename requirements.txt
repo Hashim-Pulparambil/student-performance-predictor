@@ -1,7 +1,6 @@
 Python
-Pandas
-NumPy
-Scikit-learn
-Streamlit
-Joblib
-Git & GitHub
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
